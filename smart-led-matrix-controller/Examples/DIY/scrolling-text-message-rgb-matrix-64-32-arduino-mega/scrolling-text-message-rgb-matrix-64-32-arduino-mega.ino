@@ -1,9 +1,11 @@
 /**
  * Author:    UseMyTools.Net
+ * Usage: This code can be use to display scrolling text on RGB 64x32 Matrix Using Arduino Mega
+ * Video: https://youtu.be/nqGJuCUM_U0
  * Created:   2021.01.20
  *
  * (c) Copyright by UseMyTools.Net.
- *  MIT license
+ *  license MIT
  *
  **/
 
